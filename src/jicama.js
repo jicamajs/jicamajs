@@ -1,6 +1,6 @@
 
 
-var Jicama = function() {
+var 🍅 = function() {
 	// And his name is...
 	this.johncena = function() {
 		if (window) {

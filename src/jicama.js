@@ -14,4 +14,10 @@ var 🍅 = function() {
 			window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
 		}
 	};
+	
+	this.friday = function() {
+		if(window) {
+			window.location.replace("https://www.google.com/maps/search/bars+near+me/");
+		}
+	};
 };

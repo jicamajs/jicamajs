@@ -20,4 +20,11 @@ var 🍅 = function() {
 			window.location.replace("https://www.google.com/maps/search/bars+near+me/");
 		}
 	};
+	
+	this.goodShit = function() {
+		if(document) {
+			document.write("good shit: 👌👀👌👀👌👀👌👀👌👀 good shit go౦ԁ sHit👌 thats ✔ some good👌👌shit right👌👌th 👌 ere👌👌👌 right✔there ✔✔if i do ƽaү so my selｆ 💯 i say so 💯 thats what im talking about right there right there (chorus: ʳᶦᵍʰᵗ ᵗʰᵉʳᵉ) mMMMMᎷМ💯 👌👌 👌НO0ОଠＯOOＯOОଠଠOoooᵒᵒᵒᵒᵒᵒᵒᵒᵒ👌 👌👌 👌 💯 👌 👀👀 👀 👌👌Good shit");
+		}
+	};
+	
 };
